@@ -1,0 +1,15 @@
+D:\IT\pet_project\HanoiTower\HanoiTower\bin\Debug\net7.0\HanoiTower.exe
+D:\IT\pet_project\HanoiTower\HanoiTower\bin\Debug\net7.0\HanoiTower.deps.json
+D:\IT\pet_project\HanoiTower\HanoiTower\bin\Debug\net7.0\HanoiTower.runtimeconfig.json
+D:\IT\pet_project\HanoiTower\HanoiTower\bin\Debug\net7.0\HanoiTower.dll
+D:\IT\pet_project\HanoiTower\HanoiTower\bin\Debug\net7.0\HanoiTower.pdb
+D:\IT\pet_project\HanoiTower\HanoiTower\obj\Debug\net7.0\HanoiTower.csproj.AssemblyReference.cache
+D:\IT\pet_project\HanoiTower\HanoiTower\obj\Debug\net7.0\HanoiTower.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\pet_project\HanoiTower\HanoiTower\obj\Debug\net7.0\HanoiTower.AssemblyInfoInputs.cache
+D:\IT\pet_project\HanoiTower\HanoiTower\obj\Debug\net7.0\HanoiTower.AssemblyInfo.cs
+D:\IT\pet_project\HanoiTower\HanoiTower\obj\Debug\net7.0\HanoiTower.csproj.CoreCompileInputs.cache
+D:\IT\pet_project\HanoiTower\HanoiTower\obj\Debug\net7.0\HanoiTower.dll
+D:\IT\pet_project\HanoiTower\HanoiTower\obj\Debug\net7.0\refint\HanoiTower.dll
+D:\IT\pet_project\HanoiTower\HanoiTower\obj\Debug\net7.0\HanoiTower.pdb
+D:\IT\pet_project\HanoiTower\HanoiTower\obj\Debug\net7.0\HanoiTower.genruntimeconfig.cache
+D:\IT\pet_project\HanoiTower\HanoiTower\obj\Debug\net7.0\ref\HanoiTower.dll
